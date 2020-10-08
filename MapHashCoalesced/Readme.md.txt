@@ -1,0 +1,1 @@
+ADT Map – using a hashtable with coalesced chaining. Also has an iterator
